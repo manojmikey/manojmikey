@@ -10,6 +10,13 @@ Currently building practical labs and automation projects.
 
 ---
 
+| About Me | Certifications |
+|-----------|---------------|
+| Networking | CCNA |
+| Linux | TryHackMe |
+| Cybersecurity | AWS |
+| Packet Analysis | Cisco Labs |
+
 ## ⚡ Skills
 
 ### 🌐 Networking
