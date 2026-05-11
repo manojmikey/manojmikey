@@ -12,45 +12,27 @@ Currently building practical labs and automation projects.
 
 ---
 
-## Skills
+## ⚡ Skills
 
-### Networking
-- OSPF
-- VLANs
-- DHCP
-- TCP/IP
-- NAT
-- ACLs
+### 🌐 Networking
+![OSPF](https://img.shields.io/badge/OSPF-blue?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-blue?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-blue?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT-blue?style=for-the-badge)
 
-### Linux
-- Ubuntu
-- SSH
-- iptables
-- ufw
-- tcpdump
-- systemctl
+### 🐧 Linux
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![iptables](https://img.shields.io/badge/iptables-grey?style=for-the-badge)
+![ufw](https://img.shields.io/badge/ufw-grey?style=for-the-badge)
 
-### Security Tools
-- Wireshark
-- Nmap
-- Kali Linux
-- TryHackMe
+### 🔐 Security
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
+![Kali](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux)
 
-### Cloud & Automation
-- AWS EC2
-- Python
-- Git & GitHub
-
----
-
-## Connect With Me
-
-📍 Hyderabad, India
-
-📧 manojkumarvemula25@gmail.com
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/manoj-vemula-a4185b227/
-
-🔗 GitHub:
-https://github.com/manojmikey
+### ☁️ Cloud & Automation
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
