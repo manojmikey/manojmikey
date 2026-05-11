@@ -1,7 +1,5 @@
-# Hi, I'm Manoj 👋
-
-## Network Engineer & Cybersecurity Enthusiast
-
+<h1 align="center">Hi 👋, I'm Manoj</h1>
+<h3 align="center">Network Engineer & Cybersecurity Enthusiast</h3>
 Focused on:
 - Networking
 - Linux Administration
