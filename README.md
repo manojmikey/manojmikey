@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Manoj 👋
 
-<!--
-**manojmikey/manojmikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Network Engineer & Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+Focused on:
+- Networking
+- Linux Administration
+- Cybersecurity
+- AWS Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building practical labs and automation projects.
+
+---
+
+## Skills
+
+### Networking
+- OSPF
+- VLANs
+- DHCP
+- TCP/IP
+- NAT
+- ACLs
+
+### Linux
+- Ubuntu
+- SSH
+- iptables
+- ufw
+- tcpdump
+- systemctl
+
+### Security Tools
+- Wireshark
+- Nmap
+- Kali Linux
+- TryHackMe
+
+### Cloud & Automation
+- AWS EC2
+- Python
+- Git & GitHub
+
+---
+
+## Connect With Me
+
+📍 Hyderabad, India
+
+📧 manojkumarvemula25@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/manoj-vemula-a4185b227/
+
+🔗 GitHub:
+https://github.com/manojmikey
